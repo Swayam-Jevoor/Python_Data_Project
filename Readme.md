@@ -58,7 +58,7 @@ plt.show()
 
 ### Results
 
-![Visualization of Top Skill for Data Nerds](3_Project\Images\skill_demand_all_data_roles.png)
+![Visualization of Top Skill for Data Nerds](3_Project/Images/skill_demand_all_data_roles.png)
 
 ### Insights
 
@@ -82,7 +82,7 @@ plt.show()
 ```
 ### Results
 
-![Trending Top Skills for Data Analysts in the US](3_Project\Images\skill_trend_DA.png)
+![Trending Top Skills for Data Analysts in the US](3_Project/Images/skill_trend_DA.png)
 *Bar graph visualizing the trending top skills for data analysts in the US in 2023.*
 
 ### Insights:
@@ -108,7 +108,7 @@ plt.show()
 
 #### Results
 
-![Salary Distributions of Data Jobs in the US](3_Project\Images\salary_boxplot.png)
+![Salary Distributions of Data Jobs in the US](3_Project/Images/salary_boxplot.png)
 *Box plot visualizing the salary distributions for the top 6 data job titles.*
 
 #### Insights
@@ -141,7 +141,7 @@ plt.show()
 #### Results
 
 Here's the breakdown of the highest-paid & most in-demand skills for data analysts in the US:
-![The Highest Paid & Most In-Demand Skills for Data Analysts in the US](3_Project\Images\Highest_Paid_and_Most_In_Demand_Skills_for_Data_Analysts_in_the_US.png)
+![The Highest Paid & Most In-Demand Skills for Data Analysts in the US](3_Project/Images/Highest_Paid_and_Most_In_Demand_Skills_for_Data_Analysts_in_the_US.png)
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the US.*
 
 #### Insights:
@@ -168,14 +168,12 @@ plt.show()
 
 #### Results
 
-![Most Optimal Skills for Data Analysts in the US](3_Project\Images\Most_Optimal_Skills_for_Data_Analysts_in_the_US_with_Coloring_by_Technology.png)
+![Most Optimal Skills for Data Analysts in the US](3_Project/Images/Most_Optimal_Skills_for_Data_Analysts_in_the_US_with_Coloring_by_Technology.png)
 
 #### Insights:
 - The scatter plot shows that most of the 'programming' skills (colored blue) tend to cluster at higher salary levels compared to other categories, indicating that programming expertise might offer greater salary benefits within the data analytics field.
 
 - Analyst tools (colored green), including Tableau and Power BI, are prevalent in job postings and offer competitive salaries, showing that visualization and data analysis software are crucial for current data roles. This category not only has good salaries but is also versatile across different types of data tasks.
-
-- The database skills (colored orange), such as Oracle and SQL Server, are associated with some of the highest salaries among data analyst tools. This indicates a significant demand and valuation for data management and manipulation expertise in the industry.
 
 # What I Learned
 
@@ -209,3 +207,4 @@ This project was not without its challenges, but it provided good learning oppor
 # Conclusion
 
 This exploration into the data analyst job market has been incredibly informative, highlighting the critical skills and trends that shape this evolving field. The insights I got enhance my understanding and provide actionable guidance for anyone looking to advance their career in data analytics. As the market continues to change, ongoing analysis will be essential to stay ahead in data analytics. This project is a good foundation for future explorations and underscores the importance of continuous learning and adaptation in the data field.
+- The database skills (colored orange), such as Oracle and SQL Server, are associated with some of the highest salaries among data analyst tools. This indicates a significant demand and valuation for data management and manipulation expertise in the industry.
